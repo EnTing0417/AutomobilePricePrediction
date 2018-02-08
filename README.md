@@ -11,7 +11,7 @@
 
 A web app which can take in user input with car data and return a price prediction.
 
-
+![ ](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/ManualImages/finalproduct.png)
 
 ## Project Structure
 
