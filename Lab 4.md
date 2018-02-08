@@ -63,5 +63,6 @@ It may take a while for the latest commit to sync and be deployed to your web ap
 
 Congrats! Your webapp is now deployed. You can try going to the .azurewebsites.net URL you're provided to test your webapp online.
 
+[Previous Step](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/Lab%203.md)
 
 Credit to : https://github.com/jamesleeht/AzureMLWithWebappHOL
