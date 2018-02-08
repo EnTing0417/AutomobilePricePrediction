@@ -4,7 +4,9 @@ In this lab, we will make an Azure Machine Learning experiment that trains a mod
 
 [Lab 1 Manual](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment)
 
-# Explanation below is just for your understanding.
+
+
+# Explanation below is just for your understanding
 # Five steps to create an experiment 
 
 # Create a model
