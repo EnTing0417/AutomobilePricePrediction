@@ -2,10 +2,10 @@
 
 ## Steps
 
-1. [Make an Azure Machine Learning Experiment](STEP1.md)
-2. [Deploy an Azure Machine Learning web service](STEP2.md)
-3. [Make a webapp with Node.js and Vue.js which communicates with the web service](STEP3.md)
-4. [Deploying the webapp to Azure (if time permits)](STEP4.md)
+1. [Make an Azure Machine Learning Experiment](Lab 1.md)
+2. [Deploy an Azure Machine Learning web service](Lab 2.md)
+3. [Make a webapp with Node.js and Vue.js which communicates with the web service](Lab 3.md)
+4. [Deploying the webapp to Azure (if time permits)](Lab 4.md)
 
 ## Final Product
 
