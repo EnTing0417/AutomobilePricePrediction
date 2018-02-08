@@ -43,4 +43,4 @@ Step 4 : Choose and apply a learning algorithm
 Step 5 : Predict new automobile prices
 
 
-### [Next Step](Lab 2.md)
+### [Next Step] (Lab 2.md)
