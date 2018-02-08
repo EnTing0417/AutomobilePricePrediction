@@ -21,3 +21,13 @@ Drag and link the modules.Modify the diagram to look something like below.
 
 Run the predictive experiment and click deploy web service.
 
+You should be navigate to a dashboard as shown. Select *New Web Services Experience. 
+
+![](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/ManualImages/Lab%203%20-%20Dashboard%20(%20Select%20New%20Web%20Services%20Experience).jpg)
+
+After that, select the tab called Swagger API and click "Submit request".
+
+# Make sure your swagger API appeared is exactly the same as the image below. 
+![](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/ManualImages/Lab%203%20-%20Dashboard%20(Swagger%20API).jpg)
+
+[Next Step](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/Lab%203.md)
