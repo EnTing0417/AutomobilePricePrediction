@@ -9,7 +9,7 @@
 # 1. Make an Azure Machine Learning (ML) Experiment
 
 In this lab, we will make an Azure Machine Learning experiment that trains a model to predict car prices.
-Please complete until step 5 ( Predict new automobile prices )
+Please complete until step 5 ( Predict new automobile prices ) without including *evaluate model* in the diagram
 
 [Lab 1 Manual](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment) 
 
