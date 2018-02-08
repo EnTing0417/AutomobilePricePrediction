@@ -30,4 +30,7 @@ After that, select the tab called Swagger API and click "Submit request".
 # Make sure your swagger API appeared is exactly the same as the image below. 
 ![](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/ManualImages/Lab%203%20-%20Dashboard%20(Swagger%20API).jpg)
 
+[Previous Step](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/Lab%201.md)
+
+
 [Next Step](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/Lab%203.md)
