@@ -268,7 +268,6 @@ methods: {
 
 All set! Now our frontend VueJS is able to send form input data to our backend NodeJS and display a prediction result.
 
-## End
 
 Try out your webapp! It should return a price prediction and show it to the user.
 
