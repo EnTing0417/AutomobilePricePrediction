@@ -1,5 +1,3 @@
-# Starting Point for HOL
-
 ## Project Structure
 
 - Public folder
