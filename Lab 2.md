@@ -14,7 +14,7 @@ You should be able to view the following image after running predictive experime
 
 ![](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/ManualImages/Lab%202(Predictive%20Experiment).jpg)
 
-Select *Apply Transformation* and *Select columns in dataset with exclude normalized losses as launch selector* and click "DEL" button on your keyboard. 
+Select *Apply Transformation* and *Select columns in dataset with exclude normalized losses as launch selector*.Click "DEL" button on your keyboard. 
 Drag and link the modules.Modify the diagram to look something like below. 
 
 ![](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/ManualImages/finalexperiment.PNG)
