@@ -6,15 +6,6 @@
  If you don't have a Microsoft account, [click here to create a new Microsoft Account]( https://signup.live.com/?wa=wsignin1.0&rpsnv=13&ct=1518068036&rver=6.7.6643.0&wp=MBI_SSL&wreply=https%3a%2f%2faccount.microsoft.com%2fauth%2fcomplete-signin%3fru%3dhttps%253a%252f%252faccount.microsoft.com%252f%253frefp%253dsignedout-index%2526refd%253dwww.google.com&id=292666&lw=1&fl=easi2&contextid=0164ADB4AA80FA2E&bk=1518068052&uiflavor=web&uaid=b953f2df046e407087108f212332a9bf&mkt=EN-GB&lc=2057&lic=1) 
 
 
-# 1. Make an Azure Machine Learning (ML) Experiment
-
-In this lab, we will make an Azure Machine Learning experiment that trains a model to predict car prices.
-Please complete until step 5 ( Predict new automobile prices ) without including *evaluate model* in the diagram
-
-[Lab 1 Manual](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment) 
-
-
-
 # Learning outcomes : 
 # Five basic steps to create an experiment 
 
@@ -41,6 +32,13 @@ Step 4 : Choose and apply a learning algorithm
 # Score and Test the model 
 
 Step 5 : Predict new automobile prices
+
+# 1. Make an Azure Machine Learning (ML) Experiment
+
+In this lab, we will make an Azure Machine Learning experiment that trains a model to predict car prices.
+Please complete until step 5 ( Predict new automobile prices ) without including *evaluate model* in the diagram
+
+[Lab 1 Manual](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment) 
 
 
 [Next Step](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/Lab%202.md) 
