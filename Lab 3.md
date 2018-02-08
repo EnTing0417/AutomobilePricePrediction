@@ -274,4 +274,6 @@ Try out your webapp! It should return a price prediction and show it to the user
 
 Run `npm start` on your cmd and go to `localhost:3000` on your browser to try it out.
 
+[Previous Step](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/Lab%202.md)
+
 [Next Step](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/Lab%204.md)
