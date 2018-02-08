@@ -21,4 +21,3 @@ Drag and link the modules.Modify the diagram to look something like below.
 
 Run the predictive experiment and click deploy web service.
 
-### [Next Step](Lab 3.md)
