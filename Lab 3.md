@@ -13,7 +13,7 @@ Install these:
 
 Download the starting project:
 
-1. [Starting project](https://github.com/jamesleeht/AzureMLWithWebappHOL/tree/master/MLDemoStart)
+1. [Starting project](https://github.com/EnTing0417/AutomobilePricePrediction/tree/master/MLDemoStart)
 
 
 ## Project Structure
