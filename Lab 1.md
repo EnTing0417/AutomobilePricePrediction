@@ -40,5 +40,8 @@ Please complete until step 5 ( Predict new automobile prices ) without including
 
 [Lab 1 Manual](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment) 
 
+Make sure the experiment is shown as below before proceed.
+![](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/ManualImages/Lab%201-%20Overall%20diagram.jpg)
+
 
 [Next Step](https://github.com/EnTing0417/AutomobilePricePrediction/blob/master/Lab%202.md) 
