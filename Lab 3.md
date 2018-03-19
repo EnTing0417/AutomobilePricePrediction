@@ -11,10 +11,6 @@ Install these:
 1. [NodeJS](https://nodejs.org/en/download/)
 2. A text editor of your choice, I use [VSCode](https://code.visualstudio.com/download)
 
-Download the starting project:
-
-1. [Starting project](https://github.com/EnTing0417/AutomobilePricePrediction/tree/master/MLDemoStart)
-
 
 ## Project Structure
 
