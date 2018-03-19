@@ -1,5 +1,7 @@
 # Azure Machine Learning with Node/Vue.js webapp hands-on-lab
 
+#[MLDemoComplete](https://1drv.ms/f/s!ApZUnPZ8dEx4cBMduVVOli2eejQ)
+
 ## Steps
 
 1. Make an Azure Machine Learning Experiment
