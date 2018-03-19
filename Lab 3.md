@@ -2,7 +2,7 @@
 
 Download the starting project:
 
-1. [Starting project](https://drive.google.com/drive/folders/1GlEVJc3qspNFLQPn0sQRHqpzFOz3yPxu?usp=sharing)
+1. [Starting project](https://1drv.ms/f/s!ApZUnPZ8dEx4aTemMUFivgQYUu4)
 
 ## Prerequisites
 
