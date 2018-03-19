@@ -2,7 +2,7 @@
 
 Download the starting project:
 
-1. [Starting project](https://github.com/jamesleeht/AzureMLWithWebappHOL/tree/master/MLDemoStart)
+1. [Starting project](https://drive.google.com/drive/folders/1GlEVJc3qspNFLQPn0sQRHqpzFOz3yPxu?usp=sharing)
 
 ## Prerequisites
 
